@@ -1,4 +1,4 @@
-# [Markdown](https://en.wikipedia.org/wiki/Markdown) <> [Wikitext](https://en.wikipedia.org/wiki/Help:Wikitext)
+# [Markdown](https://en.wikipedia.org/wiki/Markdown) ↔ [Wikitext](https://en.wikipedia.org/wiki/Help:Wikitext)
 
 ## Headers
 
