@@ -118,17 +118,17 @@ or
 
 Markdown | Wikitext | Output
 -- | -- | --
-`[Internal link](/README.md)` | `[[/README.md|Internal link]]` | [Internal link](/README.md)
-`[Internal section](/README.md#Links)` | `[[/README.md#Links|Internal section]]` | [Internal section](/README.md#Links)
+`[Internal link](/README.md)` | `[[/README.md\|Internal link]]` | [Internal link](/README.md)
+`[Internal section](/README.md#Links)` | `[[README.md#Links\|Internal section]]` | [Internal section](/README.md#Links)
 `[External link](https://www.google.com)` | `[https://www.google.com External link]` | [External link](https://www.google.com)
 
 ## Images
 
 Markdown | Wikitext | Output
 -- | -- | --
-`![Internal image](/github.png)` | `[[File:Github.png|alt=Internal image]]` | ![Internal image](/github.png)
+`![Internal image](/github.png)` | `[[File:Github.png\|alt=Internal image]]` | ![Internal image](/github.png)
 `![External image](https://raw.githubusercontent.com/khang-nd/markdown-wikitext/main/github.png)` | - | ![External image](https://raw.githubusercontent.com/khang-nd/markdown-wikitext/main/github.png)
-`[![Image with link](/github.png)](https://github.com)` | `[[File:Github.png|link=https://github.com]]` | [![Image with link](/github.png)](https://github.com)
+`[![Image with link](/github.png)](https://github.com)` | `[[File:Github.png\|link=https://github.com]]` | [![Image with link](/github.png)](https://github.com)
 
 ## Inline code
 
