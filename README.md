@@ -1,9 +1,21 @@
 # [Markdown](https://en.wikipedia.org/wiki/Markdown) ↔ [Wikitext](https://en.wikipedia.org/wiki/Help:Wikitext)
 
+**Contents**
+
+1. [Headers](#headers)
+2. [Emphasis](#emphasis)
+3. [Lists](#lists)
+4. [Links](#links)
+5. [Images](#images)
+6. [Inline code](#inline-code)
+7. [Code blocks and Syntax highlighting](#code-blocks-and-syntax-highlighting)
+8. [Tables](#tables)
+9. [Block quotes](#block-quotes)
+10. [Horizontal rules](#horizontal-rules)
+
 ## Headers
 
 **Markdown**
-
 
 ```
 # H1
